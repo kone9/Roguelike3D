@@ -1,24 +1,19 @@
 # MIT License
-# © Ariel Gimenez 1/11/2024
+
+© Ariel Gimenez 1/11/2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for the purposes of learning and understanding the development mechanics of the project, subject to the following conditions:
 
-## Licensed Assets:
+1. **Licensed Assets**:
+   - The assets used in this project are subject to their respective licenses. Users must comply with the terms of those licenses when using the assets.
 
-The assets used in this project are subject to their respective licenses. Users must comply with the terms of those licenses when using the assets.
+2. **Use of Logic**:
+   - The logic and code within this project may be used as inspiration for other projects, and may be copied and used commercially. However, direct copying of the entire project, or making yourself the owner of the entire codebase, or simply changing the assets and claiming ownership of the entire project, is prohibited unless explicit written permission is obtained from the copyright holder.
+   - This software is shared as open-source to promote knowledge sharing and collaboration within the community.
+   - Any use of the entire project beyond the purposes of learning or inspiration, including commercial use without significant modifications, will require a fee of US$5000 payable to the copyright holder.
 
-## Use of Logic:
+3. **Learning Purposes**:
+   - Users are allowed to fork, clone, and review the code for the sole purpose of learning and understanding the mechanics and development techniques used in this project.
 
-The logic and code within this project may be used as inspiration for other projects, but direct copying of the code is prohibited unless explicit written permission is obtained from the copyright holder.
-
-This software is shared as open-source to promote knowledge sharing and collaboration within the community.
-
-Any use of the logic or code beyond the purposes of learning or inspiration will require a fee of US$5000 payable to the copyright holder.
-
-## Learning Purposes:
-
-Users are allowed to fork, clone, and review the code for the sole purpose of learning and understanding the mechanics and development techniques used in this project.
-
-## Liability:
-
-The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+4. **Liability**:
+   - The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
